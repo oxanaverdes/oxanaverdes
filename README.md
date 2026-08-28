@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Oxana Verdes 👋
 
-<!--
-**oxanaverdes/oxanaverdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Data Engineer | ETL / ELT | Data Integration
 
-Here are some ideas to get you started:
+I am a Senior Data Engineer with experience designing, developing, migrating, testing, and supporting enterprise data integration solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary experience is with **Informatica PowerCenter, IDMC/IICS, Snowflake, dbt, Oracle, DB2, and SQL**, working across ETL development, cloud migration, data validation, and production support.
+
+## 🛠 Technical Skills
+
+**ETL & Data Integration**
+- Informatica PowerCenter
+- Informatica IDMC / IICS
+- dbt
+
+**Databases & Data Warehousing**
+- Snowflake
+- Oracle
+- DB2
+- SQL Server
+
+**Development**
+- SQL
+- PL/SQL
+- Unix / Shell scripting
+
+**Cloud & Tools**
+- AWS S3
+- Git / GitHub
+- JAMS
+- Jira
+- ServiceNow
+
+## 🚀 Featured Data Engineering Projects
+
+Projects demonstrating practical ETL/ELT and data engineering patterns are being added to this portfolio.
+
+- 🔄 Informatica PowerCenter → Snowflake / dbt Modernization
+- ❄️ IDMC → Snowflake ETL Pipeline
+- 🏗️ Snowflake + dbt Data Warehouse
+- 🗄️ Oracle PL/SQL ETL Framework
+- 🔍 ETL Production Support & Data Reconciliation
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/oxanaverdes/)
