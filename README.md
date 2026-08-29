@@ -10,24 +10,22 @@ My primary experience is with **Informatica PowerCenter, IDMC/IICS, Snowflake, d
 
 **ETL & Data Integration**
 - Informatica PowerCenter
-- Informatica IDMC / IICS
+- Informatica IDMC
 - dbt
 
 **Databases & Data Warehousing**
 - Snowflake
 - Oracle
-- DB2
 - SQL Server
 
 **Development**
 - SQL
 - PL/SQL
-- Unix / Shell scripting
+- Unix 
 
 **Cloud & Tools**
 - AWS S3
 - Git / GitHub
-- JAMS
 - Jira
 - ServiceNow
 
