@@ -8,13 +8,9 @@ My primary experience is with **Informatica PowerCenter, IDMC/IICS, Snowflake, d
 
 ## 🛠 Technical Skills
 
-| **ETL & Data Integration** | **Databases & Data Warehousing** |
-|---|---|
-| • Informatica PowerCenter<br>• Informatica IDMC<br>• dbt | • Snowflake<br>• Oracle<br>• DB2<br>• SQL Server |
-
-| **Development** | **Cloud & Tools** |
-|---|---|
-| • SQL<br>• PL/SQL<br>• Unix | • AWS S3<br>• Git / GitHub<br>• Jira<br>• ServiceNow |
+| **ETL & Data Integration** | **Databases & Data Warehousing** | **Development** | **Cloud & Tools** |
+|---|---|---|---|
+| • Informatica PowerCenter<br>• Informatica IDMC<br>• dbt | • Snowflake<br>• Oracle<br>• DB2<br>• SQL Server | • SQL<br>• PL/SQL<br>• Unix | • AWS S3<br>• Git / GitHub<br>• Jira<br>• ServiceNow |
 
 ## 🚀 Featured Data Engineering Projects
 
