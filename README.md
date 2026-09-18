@@ -12,7 +12,7 @@ My primary experience is with **Informatica PowerCenter, IDMC/IICS, Snowflake, d
 |---|---|---|---|
 | • Informatica PowerCenter<br>• Informatica IDMC<br>• dbt | • Snowflake<br>• Oracle<br>• DB2<br>• SQL Server | • SQL<br>• PL/SQL<br>• Unix | • AWS S3<br>• Git / GitHub<br>• Jira<br>• ServiceNow |
 
-## 🚀 Featured Data Engineering Projects
+## 📊 Featured Data Engineering Projects
 
 Projects demonstrating practical ETL/ELT and data engineering patterns are being added to this portfolio.
 
